@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="lib" path="lib"/>
+	<classpathentry kind="lib" path="D:/Users/tao/workspace/CRAN_1/lib/gnujaxp.jar"/>
+	<classpathentry kind="lib" path="D:/Users/tao/workspace/CRAN_1/lib/jaxen-1.1-beta-6.jar"/>
+	<classpathentry kind="lib" path="D:/Users/tao/workspace/CRAN_1/lib/jcommon-1.0.16.jar"/>
+	<classpathentry kind="lib" path="D:/Users/tao/workspace/CRAN_1/lib/jna-4.1.0.jar"/>
+	<classpathentry kind="lib" path="D:/Users/tao/workspace/CRAN_1/lib/jxl.jar"/>
+	<classpathentry kind="lib" path="D:/Users/tao/workspace/CRAN_1/lib/mssqlserver.jar"/>
+	<classpathentry kind="lib" path="D:/Users/tao/workspace/CRAN_1/lib/poi-3.0.1-FINAL-20070705.jar"/>
+	<classpathentry kind="lib" path="D:/Users/tao/workspace/CRAN_1/lib/poi-contrib-3.0.1-FINAL-20070705.jar"/>
+	<classpathentry kind="lib" path="D:/Users/tao/workspace/CRAN_1/lib/poi-scratchpad-3.0.1-FINAL-20070705.jar"/>
+	<classpathentry kind="lib" path="D:/Users/tao/workspace/CRAN_1/lib/sqljdbc4.jar"/>
+	<classpathentry kind="lib" path="D:/Users/tao/workspace/CRAN_1/lib/substance .jar"/>
+	<classpathentry kind="lib" path="D:/Users/tao/workspace/CRAN_1/lib/trident.jar"/>
+	<classpathentry kind="lib" path="D:/Users/tao/workspace/CRAN_1/lib/twaver.jar"/>
+	<classpathentry kind="lib" path="D:/Users/tao/workspace/CRAN_1/lib/jfreechart-1.0.13/jfreechart-1.0.13-demo.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
